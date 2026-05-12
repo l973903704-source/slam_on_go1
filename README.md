@@ -1,6 +1,7 @@
 # slam_on_go1
 
-ROS Melodic workspace package for odometry-assisted 2D LaserScan SLAM and navigation on a Unitree Go1-style robot platform.
+A ROS Melodic project for odometry-assisted 2D LaserScan SLAM, occupancy-grid mapping, RViz visualization, and basic navigation on a Unitree Go1-style robot.
+
 
 <details>
 <summary>Notes Before Running on a Real Robot</summary>
