@@ -185,24 +185,7 @@ The package depends on these ROS packages:
 - `tf`
 - `visualization_msgs`
 
-## Install
-
-Clone this repository into a catkin workspace:
-
-```bash
-cd ~/catkin_ws/src
-git clone https://github.com/l973903704-source/slam_with_on_go1.git
-cd ~/catkin_ws
-catkin_make
-source devel/setup.bash
-```
-
-Verify that ROS can find the package:
-
-```bash
-rospack find slam_v44
-```
-
+<details>
 ## Run SLAM
 
 Start mapping with the default LaserScan and odometry topics:
@@ -282,6 +265,8 @@ This project is an experimental robotics package intended for SLAM, mapping, and
 ## License
 
 The ROS package declares the MIT license in `slam_v44/package.xml`.
+</details>
+
 
 <details>
 <summary>耶duang~</summary>
