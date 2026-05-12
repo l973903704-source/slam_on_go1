@@ -186,7 +186,7 @@ The package depends on these ROS packages:
 - `visualization_msgs`
 
 <details>
-## Run SLAM
+<summary>Run SLAM<summary>
 
 Start mapping with the default LaserScan and odometry topics:
 
