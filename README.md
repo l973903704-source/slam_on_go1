@@ -2,8 +2,8 @@
 
 ROS Melodic workspace package for odometry-assisted 2D LaserScan SLAM and navigation on a Unitree Go1-style robot platform.
 
-
-## Core Idea
+<detials>
+<summert>Core Idea</summert> 
 
 ```text
 Odometry prediction
@@ -138,6 +138,11 @@ After confirming the path and command behavior, the output can be switched to:
 
 This makes the SLAM process more stable than relying on scan matching alone, especially on a real robot where odometry is available but LaserScan matching can be affected by the environment.
 
+</details>
+
+
+<details>
+<summary>Project Overview</summary>
 
 ## Features
 
@@ -184,6 +189,9 @@ The package depends on these ROS packages:
 - `geometry_msgs`
 - `tf`
 - `visualization_msgs`
+
+</details>
+
 
 <details>     
 <summary>Run SLAM</summary>
