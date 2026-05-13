@@ -318,11 +318,5 @@ The ROS package declares the MIT license in `slam_v44/package.xml`.
 </details>
 
 
-<details>
-<summary>耶duang~</summary>
 
-硬件还是得看上古真神 C++ <br>
-锻炼情绪稳定性，就来搞真机，搞过都说好，哈哈（咬牙切齿）
-
-</details>
 
